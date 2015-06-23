@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nikhahit-thai" format="1">
+  <advance width="0"/>
+  <unicode hex="0E4D"/>
+  <outline>
+    <contour>
+      <point x="-158" y="699"/>
+      <point x="-195" y="688"/>
+      <point x="-212" y="672" type="curve" smooth="yes"/>
+      <point x="-224" y="661"/>
+      <point x="-241" y="640"/>
+      <point x="-241" y="604" type="curve" smooth="yes"/>
+      <point x="-241" y="547"/>
+      <point x="-188" y="512"/>
+      <point x="-126" y="512" type="curve" smooth="yes"/>
+      <point x="-100" y="512"/>
+      <point x="-67" y="521"/>
+      <point x="-48" y="538" type="curve" smooth="yes"/>
+      <point x="-29" y="555"/>
+      <point x="-24" y="580"/>
+      <point x="-24" y="609" type="curve" smooth="yes"/>
+      <point x="-24" y="662"/>
+      <point x="-72" y="698"/>
+      <point x="-133" y="699" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-153" y="567"/>
+      <point x="-177" y="576"/>
+      <point x="-177" y="602" type="curve" smooth="yes"/>
+      <point x="-177" y="628"/>
+      <point x="-159" y="643"/>
+      <point x="-127" y="643" type="curve" smooth="yes"/>
+      <point x="-107" y="643"/>
+      <point x="-89" y="631"/>
+      <point x="-89" y="605" type="curve" smooth="yes"/>
+      <point x="-89" y="576"/>
+      <point x="-105" y="567"/>
+      <point x="-128" y="567" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-88" y="534" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="-53" y="300" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>
