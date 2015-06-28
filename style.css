@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Itim-Regular';
-    src: url('Itim-Regular.ttf') format('truetype'),
-         url('Itim-Regular.eot?#iefix') format('embedded-opentype'),
-         url('Itim-Regular.woff') format('woff');
+    src: url('fonts/Itim-Regular.ttf') format('truetype'),
+         url('fonts/Itim-Regular.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Itim-Regular.woff') format('woff');
     font-weight: 400;
 }
 
