@@ -1,9 +1,10 @@
 @font-face {
     font-family: 'Itim-Regular';
-    src: url('./fonts/Itim-Regular.ttf') format('truetype'),
-         url('./fonts/Itim-Regular.eot?#iefix') format('embedded-opentype'),
-         url('./fonts/Itim-Regular.woff') format('woff');
-
+    src: url('./fonts/Itim-Regular.eot');
+    src: url('./fonts/Itim-Regular.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/Itim-Regular.woff2') format('woff2'),
+         url('./fonts/Itim-Regular.woff') format('woff'),
+         url('./fonts/Itim-Regular.ttf') format('truetype');
 }
 
 #block-1 {
@@ -12,7 +13,7 @@
 }
 
 #block-1-header {
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 35pt;
 
   text-align: center;
@@ -28,7 +29,7 @@
 #block-2 {
   color: #FFF;
   background-color: #E44057;
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 35pt;
   font-weight: normal;
   text-align: left;
@@ -42,7 +43,7 @@
 }
 
 #block-3-text {
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 24pt;
 
   line-height: 150%;
@@ -58,7 +59,7 @@
 }
 
 #block-4-text {
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 30pt;
 
   line-height: 150%;
@@ -82,7 +83,7 @@
 }
 
 #block-6-text1 {
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 75pt;
   line-height: 80%;
 
@@ -91,7 +92,7 @@
 
 #block-6-text2 {
   color: #333333;
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 74pt;
   line-height: 70%;
 
@@ -100,7 +101,7 @@
 
 #block-6-text3 {
   color: #333333;
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 44pt;
   line-height: 100%;
 
@@ -109,7 +110,7 @@
 
 #block-6-text4 {
   color: #333333;
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 53pt;
   line-height: 80%;
 
@@ -117,7 +118,7 @@
 }
 
 #block-6-text5 {
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 115pt;
   line-height: 70%;
 
@@ -126,7 +127,7 @@
 
 #block-6-text6 {
   color: #333333;
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 60pt;
   line-height: 80%;
 
@@ -141,7 +142,7 @@
 }
 
 #block-7-text {
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 30pt;
 
   line-height: 150%;
@@ -158,7 +159,7 @@
 }
 
 #block-8-text {
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 30pt;
 
   line-height: 150%;
@@ -170,7 +171,7 @@
 #block-9 {
   color: #E44057;
   background-color: #FFF;
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 45pt;
   line-height: 100%;
 
@@ -180,7 +181,7 @@
 }
 
 #block-9-Title {
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 18pt;
 
   text-align: left;
@@ -188,7 +189,7 @@
 }
 
 #block-9-Char {
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   font-size: 40pt;
 
   text-align: left;
@@ -196,7 +197,7 @@
 }
 
 #block-9-Vowel {
-  font-family: Itim-Regular;
+  font-family: 'Itim-Regular';
   line-height: 130%;
   font-size: 40pt;
 
