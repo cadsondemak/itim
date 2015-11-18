@@ -10,15 +10,14 @@
 #block-1 {
   color: #FFF;
   background-color: #E44057;
+  height: 700px;
 }
 
 #block-1-header {
   font-family: 'Itim-Regular';
   font-size: 35pt;
-
   text-align: center;
-  padding-top: 120px;
-  padding-bottom: 80px;
+  padding-top: 240px;
 }
 
 #name {
@@ -27,41 +26,41 @@
 }
 
 #block-2 {
-  color: #FFF;
-  background-color: #E44057;
+  color: #E44057;
+  background-color: #FFF;
   font-family: 'Itim-Regular';
   font-size: 35pt;
   font-weight: normal;
   text-align: left;
-  padding-bottom: 150px;
+  padding-top: 150px;
+  height: 700px;
 }
 
 #block-3 {
   background: url("img/block03.png") no-repeat center;
   color: #FFF;
   background-color: #333333;
+  height: 660px;
 }
 
 #block-3-text {
   font-family: 'Itim-Regular';
   font-size: 24pt;
-
   line-height: 150%;
   text-align: left;
   padding-top: 210px;
-  padding-bottom: 290px;
 }
 
 #block-4 {
   background: url("img/block04.png") no-repeat center;
   color: #FFF;
   background-color: #E44057;
+  height: 660px;
 }
 
 #block-4-text {
   font-family: 'Itim-Regular';
   font-size: 30pt;
-
   line-height: 150%;
   text-align: left;
   padding-top: 200px;
@@ -72,21 +71,20 @@
   background: url("img/block05.png") no-repeat center;
   color: #333333;
   background-color: #FFF;
-  padding-top: 700px;
+  height: 700px;
 }
 
 #block-6 {
   color: #FFF;
   background-color: #E44057;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  height: 660px;
+  padding-top: 50px;
 }
 
 #block-6-text1 {
   font-family: 'Itim-Regular';
   font-size: 75pt;
   line-height: 80%;
-
   text-align: center;
 }
 
@@ -95,7 +93,6 @@
   font-family: 'Itim-Regular';
   font-size: 74pt;
   line-height: 70%;
-
   text-align: center;
 }
 
@@ -104,7 +101,6 @@
   font-family: 'Itim-Regular';
   font-size: 44pt;
   line-height: 100%;
-
   text-align: center;
 }
 
@@ -113,7 +109,6 @@
   font-family: 'Itim-Regular';
   font-size: 53pt;
   line-height: 80%;
-
   text-align: center;
 }
 
@@ -121,7 +116,6 @@
   font-family: 'Itim-Regular';
   font-size: 115pt;
   line-height: 70%;
-
   text-align: center;
 }
 
@@ -130,7 +124,6 @@
   font-family: 'Itim-Regular';
   font-size: 60pt;
   line-height: 80%;
-
   text-align: center;
 }
 
@@ -139,12 +132,12 @@
   background-size: cover;
   color: #FFF;
   background-color: #333333;
+  height: 700px;
 }
 
 #block-7-text {
   font-family: 'Itim-Regular';
   font-size: 30pt;
-
   line-height: 150%;
   text-align: left;
   padding-top: 155px;
@@ -156,12 +149,12 @@
   background-size: cover;
   color: #E44057;
   background-color: #333333;
+  height: 700px;
 }
 
 #block-8-text {
   font-family: 'Itim-Regular';
   font-size: 30pt;
-
   line-height: 150%;
   text-align: left;
   padding-top: 190px;
@@ -174,24 +167,28 @@
   font-family: 'Itim-Regular';
   font-size: 45pt;
   line-height: 100%;
-
   text-align: left;
   padding-top: 50px;
-  padding-bottom: 70px;
 }
 
 #block-9-Title {
   font-family: 'Itim-Regular';
-  font-size: 18pt;
-
+  font-size: 14pt;
   text-align: left;
   letter-spacing: 0px
 }
 
 #block-9-Char {
   font-family: 'Itim-Regular';
-  font-size: 40pt;
+  font-size: 36pt;
+  text-align: left;
+  letter-spacing: 3px
+}
 
+#block-9-Char-2 {
+  font-family: 'Itim-Regular';
+  font-size: 24pt;
+  line-height: 140%;
   text-align: left;
   letter-spacing: 3px
 }
@@ -200,7 +197,6 @@
   font-family: 'Itim-Regular';
   line-height: 130%;
   font-size: 40pt;
-
   text-align: left;
 }
 
